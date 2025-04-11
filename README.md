@@ -80,12 +80,6 @@ Citations include works from IEEE and peer-reviewed publications on plant diseas
 
 ---
 
-## Demo / Visualization
-
-🖼️ Dataset samples, model architecture diagrams, and result visualizations can be found in the notebook:  
-`Plant_leaf_healthy_detection.ipynb`
-
----
 
 ## Future Work
 
